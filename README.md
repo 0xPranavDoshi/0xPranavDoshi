@@ -6,6 +6,6 @@
 - 📫 How to reach me: pranav.rdoshi@gmail.com
 - ⚡ Fun fact: I'm 14!
 
-|### What I Code..
+### What I Code..
 
 
