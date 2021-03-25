@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-React Native-black?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift">
 <img src="https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=Xcode">
 <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
