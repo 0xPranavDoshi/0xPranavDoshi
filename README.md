@@ -1,8 +1,13 @@
-### Hi there 👋
+# Hey there 👋
 
-- 🔭 I’m currently working on an electron desktop application!
+- 🔭 I’m currently working on an developer community app!
 - 🌱 I’m currently learning flutter app developement!
 - 💬 Ask me about Electron, Flutter and Python developement!
 - 📫 How to reach me: pranav.rdoshi@gmail.com
 - ⚡ Fun fact: I'm 14!
+
+->😺 Github Stats<-
+
+![Pranav Doshi's Github Stats](https://github-readme-stats.vercel.app/api?username=Cybernetic77&theme=radical)
+
 
