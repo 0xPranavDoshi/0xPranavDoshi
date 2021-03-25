@@ -8,7 +8,7 @@
 
 ## <div align="center">⚡ Technologies</div>
 
-#### <div align="center">Python Flutter Dart Git Github MongoDB Firebase Javascript Typescript Nodejs Express HTML5 CSS3 Swift C++ C# Jquery Bootstrap Electron Flask React React-native Ionic Angular Unity
+### <div align="center">Python Flutter Dart Git Github MongoDB Firebase Javascript Typescript Nodejs Express HTML5 CSS3 Swift C++ C# Jquery Bootstrap Electron Flask React React-native Ionic Angular Unity
 </div>
 
 ## <div align="center">😺 Github Stats</div>
