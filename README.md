@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter">
 <img src="https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart">
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
 <img src="https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron">
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5">
