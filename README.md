@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift">
 <img src="https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=Xcode">
-<img src="https://img.shields.io/badge/-json-black?style=flat-square&logo=json">
+<img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
 <img src="https://img.shields.io/badge/-discord-black?style=flat-square&logo=discord">
 <img src="https://img.shields.io/badge/-powershell-black?style=flat-square&logo=powershell">
 <img src="https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask">
@@ -35,6 +35,8 @@
 <img src="https://img.shields.io/badge/-next.js-black?style=flat-square&logo=Next.js">
 <img src="https://img.shields.io/badge/-ionic-black?style=flat-square&logo=ionic">
 <img src="https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular">
+<img src="https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm">
+<img src="https://img.shields.io/badge/-yarn-black?style=flat-square&logo=yarn">
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
 <img src="https://img.shields.io/badge/-C Sharp-black?style=flat-square">
 <img src="https://img.shields.io/badge/-C-black?style=flat-square">
