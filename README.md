@@ -6,7 +6,7 @@
 - 📫 How to reach me: pranav.rdoshi@gmail.com
 - ⚡ Fun fact: I'm 14!
 
-## <div align="center">😺 Github Stats</div
+## <div align="center">😺 Github Stats</div>
   
 <div align="center">![Pranav Doshi's Github Stats](https://github-readme-stats.vercel.app/api?username=Cybernetic77&theme=radical)</div>
 
