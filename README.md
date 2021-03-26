@@ -47,6 +47,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cybernetic77&theme=radical">
+  <img src="https://wakatime.com/share/@Cybernetic77/356f3c19-4ecb-4fb8-af53-73748e1748ed.svg">
 </div>
 
 
