@@ -52,7 +52,7 @@
 ## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/activity-feed.png"/><span align="center"> Coding Activity</span></div>
 
 <div align="center">
-  <img width="500px" src="https://wakatime.com/share/@Cybernetic77/356f3c19-4ecb-4fb8-af53-73748e1748ed.svg">
+  <img width="500px" src="https://wakatime.com/share/@Cybernetic77/bf6ace3d-42ba-45f9-b14a-29cefa7473d1.svg">
 </div>
 
 
