@@ -49,12 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Cybernetic77&theme=radical">
 </div>
 
-## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/bar-chart.png"/> Top Languages</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=swift,c#&theme=radical">
-</div>
-
 ## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/activity-feed.png"/><span align="center"> Coding Activity</span></div>
 
 <div align="center">
