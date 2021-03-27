@@ -1,7 +1,7 @@
 # Hey there 👋
 
-- 🔭 I’m currently working on an developer community app!
-- 🌱 I’m currently learning flutter app developement!
+- 🔭 I’m currently working on a developer community app!
+- 🌱 I’m currently learning rust!
 - 💬 Ask me about Electron, Flutter and Python developement!
 - 📫 How to reach me: pranav.rdoshi@gmail.com
 - ⚡ Fun fact: I'm 14!
