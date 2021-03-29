@@ -28,20 +28,20 @@
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift">
 <img src="https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=Xcode">
 <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
-<img src="https://img.shields.io/badge/-discord-black?style=flat-square&logo=discord">
-<img src="https://img.shields.io/badge/-powershell-black?style=flat-square&logo=powershell">
-<img src="https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask">
-<img src="https://img.shields.io/badge/-express-black?style=flat-square&logo=express">
-<img src="https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity">
-<img src="https://img.shields.io/badge/-next.js-black?style=flat-square&logo=Next.js">
-<img src="https://img.shields.io/badge/-ionic-black?style=flat-square&logo=ionic">
-<img src="https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular">
-<img src="https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm">
-<img src="https://img.shields.io/badge/-yarn-black?style=flat-square&logo=yarn">
+<img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord">
+<img src="https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell">
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express">
+<img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity">
+<img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js">
+<img src="https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=ionic">
+<img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular">
+<img src="https://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm">
+<img src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn">
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
-<img src="https://img.shields.io/badge/-C Sharp-black?style=flat-square">
+<img src="https://img.shields.io/badge/-C sharp-black?style=flat-square">
 <img src="https://img.shields.io/badge/-C-black?style=flat-square">
-<img src="https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust">
+<img src="https://img.shields.io/badge/-Rust?style=flat-square&logo=rust">
 </p>
 
 ## <div align="center">😺 Github Stats</div>
