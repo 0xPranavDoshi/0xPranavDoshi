@@ -58,6 +58,11 @@
   <img width="500px" class="border color-border-inverse" src="https://wakatime.com/share/@Cybernetic77/d9b7b6bb-3623-4d5d-a248-de790fb9ab06.svg">
 </div>
 
+## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/leaderboard.png"/><span align="center"> Top Languages</span></div>
+<div align="center">
+  <img width="500px" src="https://wakatime.com/share/@Cybernetic77/08a73c90-04b9-4889-a78b-fe5f6e77b2f4.svg" />
+</div>
+
 
 
 
