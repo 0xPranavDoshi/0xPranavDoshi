@@ -54,8 +54,8 @@
 <div align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Cybernetic77&theme=radical&hide_title=true" />
 </div>\
-<div width="500px" align="center" class="border">
-  <img width="500px" src="https://wakatime.com/share/@Cybernetic77/d9b7b6bb-3623-4d5d-a248-de790fb9ab06.svg">
+<div width="500px" align="center">
+  <img width="500px" class="border color-border-inverse" src="https://wakatime.com/share/@Cybernetic77/d9b7b6bb-3623-4d5d-a248-de790fb9ab06.svg">
 </div>
 
 
