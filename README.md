@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
 <img src="https://img.shields.io/badge/-C sharp-black?style=flat-square">
 <img src="https://img.shields.io/badge/-C-black?style=flat-square">
-<img src="https://img.shields.io/badge/-Rust?style=flat-square&logo=rust">
+<img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust">
 </p>
 
 ## <div align="center">😺 Github Stats</div>
