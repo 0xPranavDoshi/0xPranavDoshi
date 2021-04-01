@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Cybernetic77&theme=radical&hide_title=true" />
 </div>
 
-## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/activity-feed.png" /><span align="center"> Coding Activity</span></div>
+## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/activity-feed.png" /><span align="center"> Coding Activity This Week</span></div>
 <div align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Cybernetic77&theme=radical&hide_title=true" />
 </div>  
