@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning rust!
 - 💬 Ask me about Electron, Flutter and Python developement!
 - 📫 How to reach me: pranav.rdoshi@gmail.com
-- ⚡ Fun fact: I'm 14!
+- ⚡ Fun fact: I'm 15!
 
 ## <div align="center">⚡ Technologies</div>
   
