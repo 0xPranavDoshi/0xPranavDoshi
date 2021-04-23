@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity">
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js">
 <img src="https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=ionic">
-<img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular">
 <img src="https://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm">
 <img src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn">
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
