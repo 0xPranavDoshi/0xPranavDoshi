@@ -46,7 +46,7 @@
 ## <div align="center">😺 Github Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cybernetic77&theme=radical&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaphodElevated&theme=radical&hide_title=true" />
 </div>
 
 ## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/leaderboard.png" /><span align="center"> Top Languages</span></div>
