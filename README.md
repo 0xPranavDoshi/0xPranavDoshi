@@ -1,6 +1,6 @@
 # Hey there 👋
 
-- 🔭 I’m currently working on a developer community app!
+- 🔭 I’m currently working on Novus, a package manager for Windows!
 - 🌱 I’m currently learning rust!
 - 💬 Ask me about Web, Flutter, Rust and Python developement!
 - 📫 How to reach me: pranav.rdoshi@gmail.com
