@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on LunarPay, a decentralized crypto payment gateway!
 - 🌱 I’m currently learning about web3!
 - 💬 Ask me about Web, Flutter, Rust!
-- 📫 You can reach me on @0xPranavDoshi on Twitter or email: pranav.rdoshi@gmail.com
+- 📫 You can reach me on https://twitter.com/0xPranavDoshi or email: pranav.rdoshi@gmail.com
 - ⚡ Fun fact: I'm 15!
 
 ## <div align="center">⚡ Technologies</div>
