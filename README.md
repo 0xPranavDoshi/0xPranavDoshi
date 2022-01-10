@@ -1,9 +1,9 @@
 # Hey there 👋
 
-- 🔭 I’m currently working on Novus, a package manager for Windows!
-- 🌱 I’m currently learning rust!
-- 💬 Ask me about Web, Flutter, Rust and Python developement!
-- 📫 How to reach me: pranav.rdoshi@gmail.com
+- 🔭 I’m currently working on LunarPay, a decentralized crypto payment gateway!
+- 🌱 I’m currently learning about web3!
+- 💬 Ask me about Web, Flutter, Rust!
+- 📫 You can reach me on ![Twitter](https://twitter.com/0xPranavDoshi) or email: pranav.rdoshi@gmail.com
 - ⚡ Fun fact: I'm 15!
 
 ## <div align="center">⚡ Technologies</div>
