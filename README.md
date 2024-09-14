@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning about web3!
 - 💬 Ask me about Web, Flutter, Rust!
 - 📫 You can reach me on https://twitter.com/0xPranavDoshi or email: pranav.rdoshi@gmail.com
-- ⚡ Fun fact: I'm 15!
 
 ## <div align="center">⚡ Technologies</div>
   
