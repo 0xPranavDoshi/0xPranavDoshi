@@ -42,11 +42,11 @@
 <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust">
 </p>
 
-## <div align="center">😺 Github Stats</div>
+<!-- ## <div align="center">😺 Github Stats</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xPranavDoshi&theme=radical&hide_title=true" />
-</div>
+</div> -->
 
 <!-- ## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/leaderboard.png" /><span align="center"> Top Languages</span></div>
 <div align="center">
